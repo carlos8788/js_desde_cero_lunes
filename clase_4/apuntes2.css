@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: green;
+}
+
+/* p {
+    color: blue;
+} */
+
+/* p {
+    color: red;
+    background-color: aquamarine;
+} */
+
+li {
+    background-color: gray;
+}
+
+.item-importante {
+    background-color: green;
+}
+
+.elemento-resaltado{
+    color: red;
+}
+
+.resaltado{
+    font-size: 50px;
+    color: green;
+}
+
+#primero{
+    color: blue;
+}
+
+.cascada{
+    color: green;
+    background-color: black;
+    /* background-color: black !important; */
+}
+
+.cascada {
+    background-color: white;
+}
+
+.herencia{
+    background-color: blue;
+    color: blueviolet;
+}
